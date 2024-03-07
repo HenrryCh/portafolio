@@ -17,7 +17,7 @@ const Contact = () => {
                 <div className='md:w-1/2 px-4'>
                     <div className="flex items-center mb-4"> {/* Contenedor de fila con descripción e icono */}
                         <MdEmail className="mr-2" /> {/* Icono de email */}
-                        <p>Email: henrry.chariguaman@gmail.com</p> 
+                        <p>Email: henry.chariguaman@gmail.com</p> 
                     </div>
                     <div className="flex items-center mb-4"> 
                         <MdPhone className="mr-2" /> 
