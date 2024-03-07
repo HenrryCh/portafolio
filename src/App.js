@@ -10,11 +10,11 @@ function App() {
   return (
     <div>
       <NavBar/>
+      <SocialLinks/>
       <Home name= "inicio"/>
       <About name="sobre mi"/>
       <Portfolio name="portafolio"/>
       <Skills name="habilidades"/>
-      <SocialLinks/>
       <Contact name="contacto"/>
     </div>
   );
